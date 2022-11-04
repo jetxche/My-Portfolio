@@ -5,11 +5,11 @@ Este es mi protfolio creado con ReactJS y Materialize
 ## Autor -
 **Julian Etchepare**
 
-* [LinkedIn] (https://www.linkedin.com/in/julianetchepare/)
-* [Portfolio web] (https://julianetchepare.com/)
+* [LinkedIn](https://www.linkedin.com/in/julianetchepare/)
+* [Portfolio web](https://julianetchepare.com/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Instalación
 
