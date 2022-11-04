@@ -5,9 +5,8 @@ Este es mi protfolio creado con ReactJS y Materialize
 ## Autor -
 **Julian Etchepare**
 
-*[LinkedIn] (https://www.linkedin.com/in/julianetchepare/)
-*[]
-*[Portfolio Web] ( )
+* [LinkedIn] (https://www.linkedin.com/in/julianetchepare/)
+* [Portfolio web] (https://julianetchepare.com/)
 
 ## Ver ejemplo en vivo
 - [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
