@@ -3,17 +3,18 @@
 Este es mi protfolio creado con ReactJS y Materialize
 
 ## Autor -
-**Julian Etchepare**
+:bust_in_silhouette: **Julian Etchepare**
 
-* [LinkedIn](https://www.linkedin.com/in/julianetchepare/)
-* [Portfolio web](https://julianetchepare.com/)
+:large_blue_diamond: [LinkedIn](https://www.linkedin.com/in/julianetchepare/)
+
+:large_blue_diamond: [Portfolio web](https://julianetchepare.com/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+:computer: [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Instalación
 
-Este proyecto requiere instalar NodeJS.
+Este proyecto requiere instalar [NodeJS](https://nodejs.org/es/).
 
 ## Contratación
 
